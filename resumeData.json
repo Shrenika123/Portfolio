@@ -1,0 +1,121 @@
+{
+    "main": {
+      "title":"Actively looking for a job as a Frontend developer(Can join Immediately)",
+      "name": "Shrenika Nataraj",
+      "occupation": "Associate Software Engineer",
+      "description": "Worked on creating frontend  Website(React.js) and Middle API's(node.js)",
+      "image": "assests/B612_20190307_232516_424.jpg",
+      "bio": "My name is Shrenika, I'm a Full Stack ReactJS Developer ",
+      "contactmessage": "Get in touch with me to receive further details if you find my profile intresting",
+      "email": "shrenika.nataraj@gmail.com",
+      "phone": "+91 9916963915",
+      "address": {
+        "street": "Rajajinagar",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "zip": "560021"
+      },
+      "resumedownload": "https://drive.google.com/file/d/1SOeoDQSO_MAKYrKUzLhphI4Mymsx2NPY/view?usp=sharing",
+      "social": [
+      
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/shrenika-nataraj-7655a4129",
+          "className": "fa fa-linkedin"
+        },
+      
+        {
+          "name": "github",
+          "url": "https://github.com/Shrenika123/",
+          "className": "fa fa-github"
+        }
+      ]
+    },
+    "resume": {
+      "skillmessage": "Skillset",
+      "education": [
+        {
+          "school": "BMS Institute of Technology",
+          "degree": "Bachelors in Computer Science",
+          "graduated": "2018",
+          "description": "Graduated with Distinction"
+        }
+      ],
+      "work": [
+        {
+          "company": "Torry Harris Business Solutions",
+          "title": "Associate Software Engineer",
+          "years": "Sept 2018 - July 2020",
+          "description": "Creating frontend UI and Middleware API's for the client BT , Created few personal projects  \"simple ecommerce website\" , \"Instagram clone\" and many mini projects available on github"
+        }
+       
+      ],
+      "skills": [
+
+        {
+            "name": "Javascript",
+            "level": "75%"
+          },
+        {
+          "name": "React.js",
+          "level": "70%"
+        },
+        {
+          "name": "HTML5",
+          "level": "60%"
+        },
+        {
+            "name": "node.js",
+            "level": "50%"
+          },
+          
+        {
+          "name": "CSS3",
+          "level": "50%"
+        },
+        {
+          "name": "Git",
+          "level": "40%"
+        },
+        {
+          "name": "MongoDB",
+          "level": "30%"
+        }
+      ]
+    },
+    "portfolio": {
+      "projects": [
+        {
+          "title": "Social media Clone(Instagram)",
+          "category": "Instagram Clone built with MERN (Hooks,firebase,material UI)",
+          "image": "assests/portfolio/Screen Shot 2020-10-08 at 2.05.07 PM__01.png",
+          "url":"https://instagram-clone-72ba9.web.app/"
+        },
+        {
+          "title": "Simple ecommerce website \"Shop\""  ,
+          "category": "Hooks,Redux",
+          "image": "assests/portfolio/Screen Shot 2020-10-08 at 1.43.12 PM__01__01.png",
+          "url":"https://shrenika123.github.io/Shop1/"
+        },
+        {
+          "title": "Simple ecommerce website \"Shop-on\""  ,
+          "category": "Hooks,Contect API",
+          "image": "assests/portfolio/Screen Shot 2020-10-10 at 8.02.26 PM__01.png",
+          "url":"https://ecommerce-d8c84.web.app/"
+        }
+
+      ]
+    },
+    "testimonials": {
+      "testimonials": [
+        {
+          "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+          "user": "Kareem Abdul Jabbar"
+        },
+        {
+          "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+          "user": "Steve Wozniak... impersonator"
+        }
+      ]
+    }
+  }
